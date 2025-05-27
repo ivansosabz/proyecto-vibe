@@ -16,6 +16,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+admin.site.site_header = "Administración de Vibe"
+admin.site.site_title = "Sistema Vibe"
+admin.site.index_title = "Bienvenido al panel de administración"
 
 urlpatterns = [
     path('admin/', admin.site.urls),
