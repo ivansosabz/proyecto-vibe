@@ -32,9 +32,9 @@ El secretario debe confirmar posteriormente esta asistencia.
 ## 🔧 Tecnologías utilizadas
 
 - Backend: Django
-- Base de datos: PostgreSQL o SQLite (desarrollo)
+- Base de datos: PostgreSQL
 - Panel de administración: Django Admin
-- Frontend: HTML + CSS + JS simples (por ahora)
+- Frontend: HTML + CSS + Bootstrap + JS simples
 
 ## 🚀 Objetivos
 
